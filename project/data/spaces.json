@@ -1,0 +1,20 @@
+{
+  "data": {
+    "spaces": {
+      "totalCount": 1,
+      "page": 1,
+      "perPage": 50,
+      "spaces": [
+        {
+          "id": "12345",
+          "name": "My Health Plan",
+          "link": {
+            "text": "My Health Plan",
+            "url": "/public/apps/spaces/#/12345"
+          },
+          "type": "space"
+        }
+      ]
+    }
+  }
+}
